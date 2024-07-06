@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, SQLITE, JS, REACTJS**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, SQLITE, JAVASCRIPT, REACTJS**
 
 - 📫 How to reach me **vishalkhadaha6@gmail.com**
 
